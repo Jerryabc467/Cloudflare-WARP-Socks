@@ -10,6 +10,6 @@
 ---
 
 ## 🚀 使用方法
-``
+```bash
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/Jerryabc467/Cloudflare-WARP-Socks-/main/install_warp.sh)"
-``
+```
